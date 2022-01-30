@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://manarea.github.io/csb-ljs9c/precache-manifest.9dcbb763ba9bd9e31ef64456ce990555.js"
+  "https://manarea.github.io/csb-ljs9c/precache-manifest.f21b8a6fae20c601706b4650128de9ff.js"
 );
 
 self.addEventListener('message', (event) => {
